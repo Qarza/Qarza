@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qarza
-- 👀 I’m interested in all kind of coding with any tools and languages
-- 🌱 I’m currently learning Android, iOS, Web, etc
+- 👀 I’m interested in all kind new tech related to IT
+- 🌱 I’m currently researching GenAI applicability
 - 💞️ I’m looking to collaborate on with something interesting
 - 📫 How to reach me by email
 
